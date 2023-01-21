@@ -40,7 +40,7 @@ PERSON_ALIASES = {"Dan Strauss": set(["Daniel Strauss"])}
 
 ###############################################################################
 
-
+# comment
 class SeattleScraper(LegistarScraper):
     PYTHON_MUNICIPALITY_SLUG: str = "seattle"
 
